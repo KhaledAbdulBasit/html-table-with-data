@@ -1,4 +1,4 @@
-# html-table-with-data
+# html table with data
 <table cellpadding="1" cellspacing="1">
 <tr>
 	<th>Title</th>
