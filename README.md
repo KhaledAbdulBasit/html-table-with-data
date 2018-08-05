@@ -1,4 +1,5 @@
 # html table with data
+#Click on the word row & Get the table
 <table cellpadding="1" cellspacing="1">
 <tr>
 	<th>Title</th>
